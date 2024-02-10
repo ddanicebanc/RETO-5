@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+    <persona>
+        <nombre>test</nombre>
+        <contrasena>12345</contrasena>
+    </persona>
+    <persona>
+        <nombre>test2</nombre>
+        <contrasena>TEST</contrasena>
+    </persona>
+<persona><nombre>leire</nombre><contrasena>hernan</contrasena></persona></usuarios>

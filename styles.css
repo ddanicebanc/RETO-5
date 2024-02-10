@@ -1,0 +1,52 @@
+.desplegables a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#quienes {
+    color: white;
+    background-color: black;
+}
+
+#colegiación {
+    color: white;
+    background-color: black;
+}
+
+#servicios {
+    color: white;
+    background-color: black;
+}
+
+.desplegables {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+body {
+    margin: 0%;
+}
+
+#login {
+    text-align: right;
+    padding-right: 6.5%;
+}
+
+.indice {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: right;
+    margin: 5%;
+}
+
+#encabezado {
+    text-align: center;
+    background-color: #484c4e;
+    color: #fff;
+    padding:1px;
+}
+
+#formulario {
+    text-align: center;
+}
